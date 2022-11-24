@@ -4,3 +4,5 @@
 
 调试使用
 本地使用jdk17，地址为：/Users/luobin/workspace/spring-boot
+
+image::images/1.jpg[]
